@@ -1,4 +1,4 @@
 # tareaReadme
-##pruebas de markdown
-###tres
-####cuatro
+## pruebas de markdown
+### tres
+#### cuatro
