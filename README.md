@@ -7,7 +7,7 @@ Me llamo __Borja__ y tengo _18 años_. Me gusta ~~jugar al baloncesto~~ jugar al
 #
 ![RealMadrid](https://www.muralesdepared.es/wp-content/uploads/2021/02/escudo-real-madrid.jpg)
 #
-
+No carga
 ##### Comandos
 Usa `mkdir`para crear una carpeta.
 #
